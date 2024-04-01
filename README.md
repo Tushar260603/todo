@@ -1,6 +1,8 @@
 ### `Project Setup`
 Download code zip
+
 Extract all the zip files.
+
 Use `npm install` to install all the dependencies.
 
 ### `npm start`
